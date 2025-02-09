@@ -1,0 +1,5 @@
+<Response>
+    <!-- พูดข้อความ -->
+    <Say voice="alice" language="th-TH">สวัสดีค่ะ ยินดีต้อนรับสู่บริการของเรา</Say>
+    
+</Response>
